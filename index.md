@@ -9,7 +9,7 @@
 
     <h1>Madame Bovary</h1>
 
-    <p>Bienvenue sur mon site consacré au célèbre roman de Gustave Flaubert.</p>
+    <p>Madame Bovary est un roman publié par Gustave Flaubert en 1857. Il raconte l'histoire d'Emma Bovary, jeune fille rêveuse qui souhaite vivre une vie romanesque.</p>
 
 </body>
 </html>
