@@ -9,7 +9,22 @@ Le roman comporte peu de personnages importants. Les principaux sont :
 
 ## Emma Bovary
 
+![img](img/emma.jpg)
 
+
+## Charles Bovary
+
+![img](img/charles.webp)
+
+
+## Léon Dupuis
+
+![img](img/léon.jpg)
+
+
+## Rodolphe Boulanger
+
+![img](img/rodolphe.jpg)
 
 
 [Retour à la page principale](index.md)
