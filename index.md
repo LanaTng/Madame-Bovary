@@ -1,16 +1,12 @@
 # Madame Bovary
 ## Par Gustave Flaubert
 
-### Third header
-
-This is a list:
-1. item 1
-2. item 2
+### Madame Bovary est un roman réaliste écrit par Gustave Flaubert et publié en 1857 qui raconte le destin tragique d'Emma, une femme de province déçue par son mariage qui cherche l'amour idéal dans l'adultère et les romans.
 
 
-[Link to the characters page](perso.md)
+[Les personnages](perso.md)
 
-[Link to the themes page](themes.md)
+[Les thèmes](themes.md)
 
 [Wikipedia Madame Bovary](https://fr.wikipedia.org/wiki/Madame_Bovary)
 
