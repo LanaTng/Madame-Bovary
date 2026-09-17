@@ -8,9 +8,9 @@ This is a list:
 2. item 2
 
 
-[Link to my second page](perso.md)
+[Link to the characters page](perso.md)
 
-[Link to my third page](themes.md)
+[Link to the themes page](themes.md)
 
 [UBO](https://univ-brest.fr/)
 
