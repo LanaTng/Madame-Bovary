@@ -12,6 +12,6 @@ This is a list:
 
 [Link to the themes page](themes.md)
 
-[UBO](https://univ-brest.fr/)
+[Wikipedia Madame Bovary](https://fr.wikipedia.org/wiki/Madame_Bovary)
 
 ![img](img/fig1.png)
