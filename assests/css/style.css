@@ -8,13 +8,13 @@ box-sizing: border-box;
 }
 
 a {
-    color: #9ddbc4;
+    color: #ff85d9;
     }
 
 /* Global Styles */
 body {
     font-family: "Open Sans", sans-serif;
-    background-color: #ebfaf4; /* Remplacer l'image par une couleur */
+    background-color: #ff85d9; /* Remplacer l'image par une couleur */
     color: #444444;
     line-height: 1.6;
 }
