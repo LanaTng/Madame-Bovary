@@ -8,4 +8,5 @@ Thèmes principaux :
 5. La critique sociale
 
 
+[Retour aux personnages](perso.md)
 [Retour à la page principale](index.md)
