@@ -1,1 +1,49 @@
+---
+---
 
+@import "{{ site.theme }}";
+
+/* Couleurs générales */
+body {
+  background-color: #F8F1E7;
+  color: #4A3A3A;
+}
+
+/* Titre principal */
+h1 {
+  color: #8B4F59;
+}
+
+/* Titres secondaires */
+h2, h3, h4 {
+  color: #A96872;
+}
+
+/* Liens */
+a {
+  color: #8B4F59;
+}
+
+a:hover {
+  color: #C9828B;
+}
+
+/* En-tête */
+header {
+  background-color: #E8D8C4;
+}
+
+/* Zone principale */
+.wrapper {
+  background-color: #F8F1E7;
+}
+
+/* Boutons / éléments mis en avant */
+.btn {
+  background-color: #C9828B;
+  color: white;
+}
+
+.btn:hover {
+  background-color: #8B4F59;
+}
