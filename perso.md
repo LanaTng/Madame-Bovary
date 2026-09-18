@@ -35,4 +35,6 @@ Rodolphe Boulanger incarne dans le roman de Gustave Flaubert la figure du séduc
 
 [Continuer avec les thèmes](themes.md)
 
+[Continuer avec les lieux de l'oeuvre](lieux.md)
+
 [Retour à la page principale](index.md)
