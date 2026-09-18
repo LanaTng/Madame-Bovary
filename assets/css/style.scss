@@ -80,22 +80,13 @@ blockquote {
   background: #a85f69;
 }
 
-/* ===== PETITS TIRETS DEVANT LES TITRES ===== */
+/* ===== PETITS SLASHES DEVANT LES TITRES ===== */
 
-h1:before,
-h2:before,
-h3:before,
-h4:before,
-h5:before,
-h6:before {
-  background: #c9828b !important;
-}
-
-section h1:before,
-section h2:before,
-section h3:before,
-section h4:before,
-section h5:before,
-section h6:before {
-  background: #c9828b !important;
+#main-content h1:before,
+#main-content h2:before,
+#main-content h3:before,
+#main-content h4:before,
+#main-content h5:before,
+#main-content h6:before {
+  color: #c9828b !important;
 }
