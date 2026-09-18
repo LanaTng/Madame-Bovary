@@ -17,6 +17,8 @@ Gustave Flaubert est un écrivain français, né à Rouen le 12 décembre 1821 e
 
 [Les thèmes](themes.md)
 
+[Les lieux de l'oeuvre](lieux.md)
+
 
 ###### Sources :
 
