@@ -3,47 +3,79 @@
 
 @import "{{ site.theme }}";
 
-/* Couleurs générales */
+/* ===== COULEURS DU SITE ===== */
+
 body {
-  background-color: #F8F1E7;
-  color: #4A3A3A;
+  background: #e7b8bd;
+  color: #4a3638;
 }
 
-/* Titre principal */
-h1 {
-  color: #8B4F59;
+/* ===== BANDEAU DU HAUT ===== */
+
+header {
+  background: #c9828b;
+  background-image: none;
+  border-bottom: 5px solid #a85f69;
 }
 
-/* Titres secondaires */
-h2, h3, h4 {
-  color: #A96872;
+header h1 {
+  color: #fff8f5;
 }
 
-/* Liens */
+header h2 {
+  color: #f8e5e2;
+}
+
+/* ===== ZONE PRINCIPALE ===== */
+
+.wrapper {
+  background: #f8f0e6;
+}
+
+/* ===== TITRES ===== */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #8b4f59;
+}
+
+/* ===== LIENS ===== */
+
 a {
-  color: #8B4F59;
+  color: #9b5964;
 }
 
 a:hover {
-  color: #C9828B;
+  color: #c9828b;
 }
 
-/* En-tête */
-header {
-  background-color: #E8D8C4;
+/* ===== TEXTE ===== */
+
+body,
+p,
+li {
+  color: #4a3638;
 }
 
-/* Zone principale */
-.wrapper {
-  background-color: #F8F1E7;
+/* ===== BLOCS DE CODE / CITATIONS ===== */
+
+blockquote {
+  border-left: 4px solid #c9828b;
+  background: #f3dfdf;
 }
 
-/* Boutons / éléments mis en avant */
+/* ===== BOUTONS ===== */
+
 .btn {
-  background-color: #C9828B;
-  color: white;
+  background: #c9828b;
+  color: #fff8f5;
+  border-color: #a85f69;
 }
 
 .btn:hover {
-  background-color: #8B4F59;
+  background: #a85f69;
 }
