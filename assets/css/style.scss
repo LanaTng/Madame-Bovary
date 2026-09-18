@@ -1,9 +1,12 @@
+---
+---
+
 @import "{{ site.theme }}";
 
 /* ===== COULEURS DU SITE ===== */
 
 body {
-  background: #f1d1d3;
+  background: #e7b8bd;
   color: #4a3638;
 }
 
@@ -76,5 +79,3 @@ blockquote {
 .btn:hover {
   background: #a85f69;
 }
-```
-
