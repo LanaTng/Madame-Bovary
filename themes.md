@@ -10,4 +10,6 @@ Thèmes principaux :
 
 [Retour aux personnages](perso.md)
 
+[Retour aux lieux de l'oeuvre](lieux.md)
+
 [Retour à la page principale](index.md)
