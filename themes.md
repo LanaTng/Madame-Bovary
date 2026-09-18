@@ -1,4 +1,8 @@
-# Les thèmes
+# Les thèmes de l'oeuvre
+
+Madame Bovary est un roman qui aborde de nombreux thèmes, explorant le caractère humain et les comportements sociétaux.
+
+
 
 Thèmes principaux :
 1. L'amour
