@@ -4,7 +4,7 @@ Madame Bovary est un roman qui aborde de nombreux thèmes, explorant le caractè
 
 ![img](img/couv.jpg)
 
-Les thèmes principaux du roman sont :
+<ins>Les thèmes principaux du roman sont :</ins>
 1. L'amour
 2. L'adultère
 3. La fiction comme échappatoire
@@ -23,7 +23,7 @@ Dans Madame Bovary, l’amour est présenté comme un sentiment fortement influe
 
 ![img](img/adultère.jpg)
 
-L’adultère constitue un élément central du roman et représente pour Emma une manière de fuir son mariage et son quotidien. Elle entretient d’abord une relation avec Rodolphe, puis avec Léon. Ces relations lui donnent l’impression de vivre enfin la passion dont elle rêve. Cependant, elles ne lui apportent qu’un bonheur temporaire et finissent elles aussi par provoquer la déception. L’adultère apparaît donc comme une fausse solution à son mal-être. Flaubert ne présente pas seulement Emma comme une femme infidèle : il montre également les conséquences de ses choix, notamment les mensonges, les souffrances et les difficultés financières qui s’accumulent. L’adultère participe ainsi à la progression d’Emma vers sa ruine.
+L’adultère constitue un élément central du roman et représente pour Emma une manière de fuir son mariage et son quotidien. Elle entretient d’abord une relation avec Rodolphe, puis avec Léon. Ces relations lui donnent l’impression de vivre enfin la passion dont elle rêve. Cependant, elles ne lui apportent qu’un bonheur temporaire et finissent, elles aussi, par provoquer la déception. L’adultère apparaît donc comme une fausse solution à son mal-être. Flaubert ne présente pas seulement Emma comme une femme infidèle : il montre également les conséquences de ses choix, notamment les mensonges, les souffrances et les difficultés financières qui s’accumulent. L’adultère participe ainsi à la progression d’Emma vers sa ruine.
 
 
 # La fiction comme échappatoire
@@ -37,7 +37,7 @@ La fiction joue un rôle essentiel dans la personnalité d’Emma. Depuis sa jeu
 
 ![img](img/désillusion.jpg)
 
-La désillusion est l’un des thèmes les plus importants du roman. Emma imagine constamment une vie idéale, mais la réalité ne correspond jamais à ses rêves. Son mariage, ses amants, sa vie sociale et même ses projets de fuite finissent par la décevoir. Chaque fois qu’elle pense avoir trouvé le bonheur, celui-ci disparaît rapidement. Cette répétition crée un cercle de l’espoir et de la déception : Emma rêve, obtient quelque chose, puis découvre que cela ne suffit pas. Sa désillusion devient de plus en plus profonde jusqu’à la fin du roman. Flaubert montre ainsi les conséquences d’une insatisfaction permanente : Emma ne parvient jamais à accepter la réalité telle qu’elle est et cherche toujours ailleurs ce qui pourrait la rendre heureuse.
+La désillusion est l’un des thèmes les plus importants du roman. Emma s'imagine constamment une vie idéale, mais la réalité ne correspond jamais à ses rêves. Son mariage, ses amants, sa vie sociale et même ses projets de fuite finissent par la décevoir. Chaque fois qu’elle pense avoir trouvé le bonheur, celui-ci disparaît rapidement. Cette répétition crée un cercle vicieux de l’espoir et de la déception : Emma rêve, obtient quelque chose, puis découvre que cela ne suffit pas. Sa désillusion devient de plus en plus profonde jusqu’à la fin du roman. Flaubert montre ainsi les conséquences d’une insatisfaction permanente : Emma ne parvient jamais à accepter la réalité telle qu’elle est et cherche toujours ailleurs ce qui pourrait la rendre plus heureuse.
 
 
 # La critique sociale
