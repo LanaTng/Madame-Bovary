@@ -4,7 +4,7 @@ Dans Madame Bovary, Gustave Flaubert montre l'évolution du personnage d'Emma ai
 
 ![img](img/couv2.jpg)
 
-Les lieux principaux du roman sont :
+<ins>Les lieux principaux du roman sont :</ins>
 1. Tostes
 2. Yonville
 3. Rouen
