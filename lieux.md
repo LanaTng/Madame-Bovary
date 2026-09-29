@@ -9,7 +9,6 @@ Les lieux principaux du roman sont :
 2. Yonville
 3. Rouen
 4. Paris
-5. Les espaces clos
 
 
 # Tostes
@@ -39,12 +38,6 @@ Rouen représente un espace beaucoup plus animé que Tostes ou Yonville. Emma s�
 
 Emma rêve également de lieux qu’elle ne connaît pas réellement, notamment Paris, qui représente pour elle une vie mondaine, élégante et passionnée. Ces lieux sont essentiellement construits par son imagination et ses lectures. Ils symbolisent un monde idéal, très éloigné de la province dans laquelle elle vit. Emma imagine Paris comme un endroit où elle pourrait enfin devenir la femme qu’elle rêve d’être. Flaubert montre ainsi que certains lieux ont une dimension imaginaire : Emma ne désire pas seulement changer de lieu, elle désire changer de vie. Ses rêves géographiques sont donc liés à son désir d’échapper à sa condition.
 
-
-# Les espaces clos
-
-![img](img/espaceclos.webp)
-
-La maison, les chambres et les autres espaces clos occupent également une place importante dans le roman. Ils donnent souvent une impression d’enfermement et correspondent à la situation d’Emma, qui se sent prisonnière de son mariage, de son rôle social et de sa vie provinciale. À l’inverse, les déplacements et les voyages semblent représenter la possibilité d’une nouvelle vie. Mais cette opposition entre espaces clos et espaces ouverts reste finalement trompeuse : même lorsqu’Emma change de lieu, elle emporte avec elle ses frustrations et ses illusions. Les lieux deviennent donc le reflet de son état intérieur.
 
 
 [Continuer avec les thèmes](themes.md)
