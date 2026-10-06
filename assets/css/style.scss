@@ -1,6 +1,8 @@
 ---
 ---
 
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&display=swap');
+
 @import "{{ site.theme }}";
 
 /* ===== COULEURS DU SITE ===== */
@@ -89,4 +91,22 @@ blockquote {
 #main-content h5:before,
 #main-content h6:before {
   color: #b96f79 !important;
+
+/* ===== POLICE DES TITRES ===== */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 600;
+}
+
+header h1 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
 }
